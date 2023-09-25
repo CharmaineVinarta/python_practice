@@ -1,5 +1,7 @@
 # python_practice
 
+I used Skills Network Labs (SN Labs), is a virtual lab environment that provides a Cloud-based virtual lab environment to help me complete hands-on labs for this course without the need to download, install and configure software like Jupyter on computer. 
+
 Module 1: Python Basics
 Hands-On Lab: Strings
 
