@@ -11,8 +11,8 @@ String Operations
 Hands-On Lab: Strings
 Practice Quiz
 Graded Quiz
-Module 2: Python Data Structures
 
+Module 2: Python Data Structures
 Lists and Tuples
 Hands-On Lab: Lists
 Hands-On Lab: Tuples
@@ -24,8 +24,8 @@ Sets
 Hands-On Lab: Sets
 Practice Quiz
 Graded Quiz
-Module 3: Python Programming Fundamentals
 
+Module 3: Python Programming Fundamentals
 Conditions and Branching
 Hands-On Lab: Conditions and Branching
 Practice Quiz 
@@ -42,8 +42,8 @@ Objects and Classes
 Hands-On Lab: Objects and Classes
 Practice Quiz
 Graded Quiz
-Module 4: Working with Data in Python 
 
+Module 4: Working with Data in Python 
 Reading Files with Open
 Hands-On Lab: Reading Files with Open
 Writing Files with Open
@@ -59,8 +59,8 @@ Two Dimensional Numpy
 Hands-On Lab: Two Dimensional Numpy
 Practice Quiz
 Graded Quiz
-Module 5: APIs and Data Collection 
 
+Module 5: APIs and Data Collection 
  Simple APIs - Part 1
  Simple APIs - Part 2
  Hands-On Lab: Introduction to API
@@ -76,5 +76,6 @@ Hands-on Lab: API Examples
  Hands-on Lab: Working with different file formats
  Practice Quiz
  Graded Quiz
+ 
 Final Exam
 
