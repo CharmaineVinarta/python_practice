@@ -1,8 +1,6 @@
 # python_practice
 
 Module 1: Python Basics
-
-Types
 Hands-On Lab: Strings
 
 Module 2: Python Data Structures
